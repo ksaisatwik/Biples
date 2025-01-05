@@ -1,0 +1,19 @@
+Questions raised during the ideation state?
+
+-> How to detect the traffic zone?
+
+-> How to integrate the hardware (sensor-crash detection) into the software application?
+
+-> Speed detection of the vehicle?
+
+-> How to access the emergency assistance to the nearest helplines?
+[The hospitals, police stations, ambulance, etc..]
+
+-> How to access or get the messages in remote areas?
+
+
+-> What are the electrical terminologies of the "sensors" that are to be implemented
+
+-> AGI: LIDA framework into the real world
+
+-> The ideation patent/submission of the model by a shortest span
